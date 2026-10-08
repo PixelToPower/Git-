@@ -10,6 +10,8 @@ int main() {
     int sum;
 
     sum = a + b ;
-    cout <<"a + b : ="<<sum;
+    int multi = a * b;
+    cout <<"a + b : ="<<sum; 
+    cout <<"a * b : ="<<multi; 
     return 0;
 }
