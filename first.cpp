@@ -11,7 +11,10 @@ int main() {
 
     sum = a + b ;
     int multi = a * b;
-    cout <<"a + b : ="<<sum; 
-    cout <<"a * b : ="<<multi; 
+    int sub = a - b;
+    cout <<"a + b : "<<sum; 
+    cout <<"a * b : "<<multi; 
+    cout <<"a - b : "<<sub;
+
     return 0;
 }
