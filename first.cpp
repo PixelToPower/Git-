@@ -15,7 +15,7 @@ int main() {
     cout <<"a + b : "<<sum; 
     cout <<"a * b : "<<multi; 
     cout <<"a - b : "<<sub;
-    
+
 
     return 0;
 }
